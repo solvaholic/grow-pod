@@ -24,4 +24,4 @@ If you'd like to help, please check [the contribution guide] to see how to engag
 - People have, or have access to, water suitable for plants
 - People have, or have access to, seeds, growing media, and plant food
 
-[the contribution guide]: https://github.com/solvaholic/myterms.fyi/blob/main/docs/CONTRIBUTING.md
+[the contribution guide]: https://github.com/solvaholic/grow-pod/blob/main/CONTRIBUTING.md
